@@ -24,6 +24,7 @@ export default function CurrentWeather() {
           <img
             src="http://shecodes-assets.s3.amazonaws.com/api/weather/icons/clear-sky-night.png"
             className="weather-icon-bg"
+            alt="weather-icon"
           />
         </div>
         <div className="flex-bx">

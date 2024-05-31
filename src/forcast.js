@@ -10,6 +10,7 @@ export default function Forcast() {
           <img
             src="http://shecodes-assets.s3.amazonaws.com/api/weather/icons/clear-sky-night.png"
             className="weather-icon-sml"
+            alt="weather-icon"
           />
         </div>
         <div className="weather-forecast-day">Monday</div>
@@ -25,6 +26,7 @@ export default function Forcast() {
           <img
             src="http://shecodes-assets.s3.amazonaws.com/api/weather/icons/clear-sky-night.png"
             className="weather-icon-sml"
+            alt="weather-icon"
           />
         </div>
         <div className="weather-forecast-day">Monday</div>
@@ -40,6 +42,7 @@ export default function Forcast() {
           <img
             src="http://shecodes-assets.s3.amazonaws.com/api/weather/icons/clear-sky-night.png"
             className="weather-icon-sml"
+            alt="weather-icon"
           />
         </div>
         <div className="weather-forecast-day">Monday</div>
@@ -55,6 +58,7 @@ export default function Forcast() {
           <img
             src="http://shecodes-assets.s3.amazonaws.com/api/weather/icons/clear-sky-night.png"
             className="weather-icon-sml"
+            alt="weather-icon"
           />
         </div>
         <div className="weather-forecast-day">Monday</div>
@@ -70,6 +74,7 @@ export default function Forcast() {
           <img
             src="http://shecodes-assets.s3.amazonaws.com/api/weather/icons/clear-sky-night.png"
             className="weather-icon-sml"
+            alt="weather-icon"
           />
         </div>
         <div className="weather-forecast-day">Monday</div>
